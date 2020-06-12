@@ -1,0 +1,12 @@
+.Person {
+    width: 60%;
+    margin: auto;
+    border: 1px solid;
+    padding: 16px;
+    text-align: center;
+}
+/* @medis(min-width: 500px) {
+    .Person {
+        width: 450px;
+    }
+}*/
